@@ -1,9 +1,8 @@
 
 const fs = require("fs");
 const inquirer = require("inquirer");
-const generateMarkdown = require("./utils/generateMarkdown")
+const generateMarkdown = require("./Develop/utils/generateMarkdown")
 const api = require(".utils/api")
-
 
 
 // array of questions for user
@@ -57,12 +56,6 @@ function askQuestions() {
 
 
 
-
-
-
-
-
-
 // function to write README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, "utf8", function (err) {
@@ -88,4 +81,4 @@ try {
 };
 
 // function call to initialize program
-init();
+ init();
