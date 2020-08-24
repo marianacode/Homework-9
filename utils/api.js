@@ -21,7 +21,7 @@ const api = {
       });  
     });    
   }
-};
+}
 
 // Export data in 'const api' to the index.js page 
 module.exports = api;
