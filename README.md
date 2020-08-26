@@ -30,6 +30,6 @@ Mariana Robertson
 
 ![Profile Image](https://github.com/marianacode.png?size=50)
 
-View the project in GitHub at: (https://marianacode.github.io/README-Generator/) 
+View the project in GitHub at: https://marianacode.github.io/README-Generator/ 
 
 If you have any questions, contact the author directly at email@gmail.com.
