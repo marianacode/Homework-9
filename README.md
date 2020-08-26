@@ -1,16 +1,6 @@
 # README Generator
 
-## Description 
-A command-line application will allow for quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
-
-A command-line application that dynamically generates a README.md from a user's input. The application will be invoked with the following command:
-
-```
-node index.js
-
-Demonstration
-
-<img src="C:\Users\v-marir\Documents\CODING BOOTCAMP\Homework-9\Demo\README Generator.gif" alt="GIF"> 
+## Description A command-line application will allow for quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -36,6 +26,6 @@ Mariana Robertson
 
 ![Profile Image](https://github.com/marianacode.png?size=50)
 
-View the project in GitHub at: (https://marianacode.github.io/README-Generator/) 
+View the project in GitHub at: undefined
 
 If you have any questions, contact the author directly at email@gmail.com.
